@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>115443810665-jrqjg9ndojunceqk05ltv01h527d5n7m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.115443810665-jrqjg9ndojunceqk05ltv01h527d5n7m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>115443810665-3luvu2oh4j8h4v0q5mphckuafn382v2c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0gOwNlnLqgzYENE7qdw_11Lc61EwXMKw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>115443810665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AwakeningEverydayTherapy</string>
+	<key>PROJECT_ID</key>
+	<string>psychology-26941</string>
+	<key>STORAGE_BUCKET</key>
+	<string>psychology-26941.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:115443810665:ios:37776f04fc9ae435b33df8</string>
+</dict>
+</plist>

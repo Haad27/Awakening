@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "115443810665",
+    "project_id": "psychology-26941",
+    "storage_bucket": "psychology-26941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115443810665:android:e13fdc951c34f9c6b33df8",
+        "android_client_info": {
+          "package_name": "com.AwakeningEverydayTherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115443810665-3tus5gq3p852e44idb9uhgbtvj5ait2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AwakeningEverydayTherapy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "115443810665-95i71ne0lu8vhu8piesojbqr5bgqu57l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp38P9OWieaombkk8jAOvremg5d4viZzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115443810665-95i71ne0lu8vhu8piesojbqr5bgqu57l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115443810665-jrqjg9ndojunceqk05ltv01h527d5n7m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AwakeningEverydayTherapy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

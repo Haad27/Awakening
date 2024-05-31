@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "plz turn your camera on mate innit";
+NSMicrophoneUsageDescription = "this as well mate";
+PermissionGroupNotification = "why not";
